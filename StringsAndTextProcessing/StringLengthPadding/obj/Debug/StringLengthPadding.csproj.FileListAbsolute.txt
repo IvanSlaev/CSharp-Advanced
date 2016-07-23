@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\bin\Debug\StringLengthPadding.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\bin\Debug\StringLengthPadding.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\bin\Debug\StringLengthPadding.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\obj\Debug\StringLengthPadding.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\obj\Debug\StringLengthPadding.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthPadding\obj\Debug\StringLengthPadding.pdb

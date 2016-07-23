@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+E:\Dropbox\VS C# projects\MultyArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

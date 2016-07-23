@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\bin\Debug\Sub-stringInText.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\bin\Debug\Sub-stringInText.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\bin\Debug\Sub-stringInText.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\obj\Debug\Sub-stringInText.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\obj\Debug\Sub-stringInText.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\Sub-stringInText\obj\Debug\Sub-stringInText.pdb

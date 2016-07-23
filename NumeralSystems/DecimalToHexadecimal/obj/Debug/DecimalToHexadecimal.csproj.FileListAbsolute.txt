@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

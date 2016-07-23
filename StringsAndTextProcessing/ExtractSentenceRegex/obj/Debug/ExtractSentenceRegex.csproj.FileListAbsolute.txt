@@ -1,0 +1,9 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\bin\Debug\ExtractSentenceRegex.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\bin\Debug\ExtractSentenceRegex.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\bin\Debug\ExtractSentenceRegex.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\obj\Debug\ExtractSentenceRegex.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\obj\Debug\ExtractSentenceRegex.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\obj\Debug\ExtractSentenceRegex.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\bin\Debug\ExtractSentenceRegex.exe.config
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\obj\Debug\ExtractSentenceRegex.exe
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentenceRegex\obj\Debug\ExtractSentenceRegex.pdb

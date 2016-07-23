@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb

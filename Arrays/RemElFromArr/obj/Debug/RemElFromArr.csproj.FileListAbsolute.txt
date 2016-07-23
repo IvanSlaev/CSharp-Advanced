@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\bin\Debug\RemElFromArr.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\bin\Debug\RemElFromArr.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\bin\Debug\RemElFromArr.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\obj\Debug\RemElFromArr.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\obj\Debug\RemElFromArr.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\RemElFromArr\obj\Debug\RemElFromArr.pdb

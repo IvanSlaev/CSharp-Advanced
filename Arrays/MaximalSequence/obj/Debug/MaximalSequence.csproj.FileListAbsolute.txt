@@ -1,0 +1,11 @@
+E:\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+E:\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+E:\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+E:\Dropbox\VS C# projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+E:\Dropbox\VS C# projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

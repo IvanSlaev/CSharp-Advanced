@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe.config
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.pdb
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.exe
+E:\Dropbox\VS C# projects\Classes\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.pdb

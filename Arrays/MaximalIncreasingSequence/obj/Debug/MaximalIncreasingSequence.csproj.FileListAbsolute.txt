@@ -1,0 +1,17 @@
+E:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+E:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+E:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+E:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+E:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

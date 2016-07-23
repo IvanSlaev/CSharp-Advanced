@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

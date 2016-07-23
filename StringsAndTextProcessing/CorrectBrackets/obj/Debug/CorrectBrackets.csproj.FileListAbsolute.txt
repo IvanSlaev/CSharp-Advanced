@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

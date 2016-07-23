@@ -1,0 +1,9 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

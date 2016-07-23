@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+E:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb
+D:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+D:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+D:\Dropbox\VS C# projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. EuclidianSpace", "1. EuclidianSpace.csproj", "{341CED49-0B36-479B-8D96-50FB1430A2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341CED49-0B36-479B-8D96-50FB1430A2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341CED49-0B36-479B-8D96-50FB1430A2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341CED49-0B36-479B-8D96-50FB1430A2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341CED49-0B36-479B-8D96-50FB1430A2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

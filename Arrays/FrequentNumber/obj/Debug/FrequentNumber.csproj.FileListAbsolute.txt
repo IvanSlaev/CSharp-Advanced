@@ -1,0 +1,7 @@
+D:\Dropbox\VS C# projects\Arrays\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\bin\Debug\FrequentNumber.exe
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\bin\Debug\FrequentNumber.pdb
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\obj\Debug\FrequentNumber.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\obj\Debug\FrequentNumber.exe
+E:\Dropbox\VS C# projects\Arrays\FrequentNumber\obj\Debug\FrequentNumber.pdb

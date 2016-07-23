@@ -1,0 +1,9 @@
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\bin\Debug\EuclidianSpace.exe.config
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\bin\Debug\EuclidianSpace.exe
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\bin\Debug\EuclidianSpace.pdb
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\obj\Debug\1. EuclidianSpace.csprojResolveAssemblyReference.cache
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\obj\Debug\EuclidianSpace.exe
+C:\Users\Desislava Katsarska\Desktop\EuclidianSpace\obj\Debug\EuclidianSpace.pdb
+C:\Users\Desislava Katsarska\Dropbox\VS_C#_projects\EuclidianSpace\bin\Debug\EuclidianSpace.exe.config
+C:\Users\Desislava Katsarska\Dropbox\VS_C#_projects\EuclidianSpace\obj\Debug\EuclidianSpace.exe
+C:\Users\Desislava Katsarska\Dropbox\VS_C#_projects\EuclidianSpace\obj\Debug\EuclidianSpace.pdb

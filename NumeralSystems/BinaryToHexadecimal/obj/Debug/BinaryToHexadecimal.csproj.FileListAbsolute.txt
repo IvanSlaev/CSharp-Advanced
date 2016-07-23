@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

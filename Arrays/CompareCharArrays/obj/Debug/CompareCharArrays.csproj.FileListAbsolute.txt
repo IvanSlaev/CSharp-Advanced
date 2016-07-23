@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb
+E:\Dropbox\VS C# projects\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache

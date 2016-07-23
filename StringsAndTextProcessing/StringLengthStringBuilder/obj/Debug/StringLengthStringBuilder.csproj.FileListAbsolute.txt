@@ -1,0 +1,5 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthStringBuilder\bin\Debug\StringLengthStringBuilder.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthStringBuilder\bin\Debug\StringLengthStringBuilder.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthStringBuilder\bin\Debug\StringLengthStringBuilder.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthStringBuilder\obj\Debug\StringLengthStringBuilder.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\StringLengthStringBuilder\obj\Debug\StringLengthStringBuilder.pdb

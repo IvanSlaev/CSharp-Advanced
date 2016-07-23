@@ -1,0 +1,12 @@
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache

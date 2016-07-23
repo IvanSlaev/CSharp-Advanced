@@ -1,0 +1,2 @@
+C:\Users\Desislava Katsarska\Desktop\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\Desislava Katsarska\Dropbox\VS_C#_projects\GenericClass\bin\Debug\GenericClass.exe.config

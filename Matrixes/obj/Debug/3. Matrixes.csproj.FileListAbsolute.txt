@@ -1,0 +1,5 @@
+C:\Users\Desislava Katsarska\Desktop\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\Desislava Katsarska\Desktop\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\Desislava Katsarska\Desktop\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\Desislava Katsarska\Desktop\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\Desislava Katsarska\Desktop\Matrixes\obj\Debug\Matrixes.pdb

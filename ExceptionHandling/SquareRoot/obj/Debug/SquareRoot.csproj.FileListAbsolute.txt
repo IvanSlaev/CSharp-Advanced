@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\bin\Debug\TriangleTwoSidesAndAngle.exe.config
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\obj\Debug\TriangleTwoSidesAndAngle.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\bin\Debug\TriangleTwoSidesAndAngle.exe
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\bin\Debug\TriangleTwoSidesAndAngle.pdb
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\obj\Debug\TriangleTwoSidesAndAngle.exe
+E:\Dropbox\VS C# projects\Classes\TriangleTwoSidesAndAngle\obj\Debug\TriangleTwoSidesAndAngle.pdb

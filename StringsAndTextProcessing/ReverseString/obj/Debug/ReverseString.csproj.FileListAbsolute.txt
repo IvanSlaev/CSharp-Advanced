@@ -1,0 +1,12 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb
+D:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb

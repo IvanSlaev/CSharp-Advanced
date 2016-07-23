@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\bin\Debug\HeronFormulaAreaOfTriangleByThreeSides.exe.config
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\bin\Debug\HeronFormulaAreaOfTriangleByThreeSides.exe
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\bin\Debug\HeronFormulaAreaOfTriangleByThreeSides.pdb
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\obj\Debug\HeronFormulaAreaOfTriangleByThreeSides.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\obj\Debug\HeronFormulaAreaOfTriangleByThreeSides.exe
+E:\Dropbox\VS C# projects\Classes\HeronFormulaAreaOfTriangleByThreeSides\obj\Debug\HeronFormulaAreaOfTriangleByThreeSides.pdb

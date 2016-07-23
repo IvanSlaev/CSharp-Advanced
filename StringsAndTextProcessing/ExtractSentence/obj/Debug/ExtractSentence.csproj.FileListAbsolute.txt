@@ -1,0 +1,11 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.exe.config
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.exe
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.exe
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\bin\Debug\ExtractSentence.pdb
+E:\Dropbox\VS C# projects\06-StringsAndTextProcessing\ExtractSentence\obj\Debug\ExtractSentence.csprojResolveAssemblyReference.cache

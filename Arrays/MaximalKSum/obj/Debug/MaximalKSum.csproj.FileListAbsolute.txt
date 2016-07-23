@@ -1,0 +1,10 @@
+E:\Dropbox\VS C# projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb

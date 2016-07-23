@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\bin\Debug\ParseTagsStringBuilder.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\bin\Debug\ParseTagsStringBuilder.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\bin\Debug\ParseTagsStringBuilder.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\obj\Debug\ParseTagsStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\obj\Debug\ParseTagsStringBuilder.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\06-StringsAndTextProcessing\ParseTagsStringBuilder\obj\Debug\ParseTagsStringBuilder.pdb

@@ -1,0 +1,12 @@
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb
+D:\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

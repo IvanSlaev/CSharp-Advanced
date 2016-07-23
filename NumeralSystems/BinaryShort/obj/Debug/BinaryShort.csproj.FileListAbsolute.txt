@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\obj\Debug\BinaryShort.exe
+E:\Dropbox\VS C# projects\NumeralSystems\BinaryShort\obj\Debug\BinaryShort.pdb

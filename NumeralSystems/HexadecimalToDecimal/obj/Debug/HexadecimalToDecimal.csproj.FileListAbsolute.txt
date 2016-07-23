@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+E:\Dropbox\VS C# projects\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

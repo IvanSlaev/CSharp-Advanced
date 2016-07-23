@@ -1,0 +1,15 @@
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.pdb
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+E:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.pdb
+D:\Dropbox\VS C# projects\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+D:\Dropbox\VS C# projects\CSharp Advanced\NumeralSystems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb

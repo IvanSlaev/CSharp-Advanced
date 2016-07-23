@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+E:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Dropbox\VS C# projects\Arrays\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
